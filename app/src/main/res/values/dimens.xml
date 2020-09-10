@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tamanho_fonte">25sp</dimen>
+    <dimen name="margin_top">30dp</dimen>
+    <dimen name="margin_left">40dp</dimen>
+    <dimen name="margin_right">40dp</dimen>
+    <dimen name="margin_option">8dp</dimen>
+    <dimen name="tamanho_fonte_botao">18sp</dimen>
+</resources>
